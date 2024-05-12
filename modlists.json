@@ -23,19 +23,19 @@
       "$type": "Links, Wabbajack.Lib",
       "image": "https://biblioklept.github.io/modlists/dust-and-death/img/branding/dustanddeath.png",
       "readme": "https://biblioklept.github.io/modlists/dust-and-death/",
-      "download": "https://authored-files.wabbajack.org/Dust%20and%20Death.wabbajack_2dbfab31-000f-40e1-9f33-bc3aca953fdf",
+      "download": "https://authored-files.wabbajack.org/Dust%20and%20Death.wabbajack_7dacef3a-0ace-4cfe-ba17-e4d96a81538d",
       "machineURL": "dustanddeath",
       "discordURL": "https://discord.gg/JzUsyNDyUe"
     },
     "download_metadata": {
       "$type": "DownloadMetadata, Wabbajack.Lib",
-	  "Hash":"0pRU6BIhT5M=",
-	  "Size":220898136,
-	  "NumberOfArchives":164,
-	  "SizeOfArchives":1912625579,
-	  "NumberOfInstalledFiles":36415,
-	  "SizeOfInstalledFiles":5522286426
+	  "Hash":"1Glrn8Ixyeo=",
+	  "Size":220984072,
+	  "NumberOfArchives":171,
+	  "SizeOfArchives":2525173591,
+	  "NumberOfInstalledFiles":36481,
+	  "SizeOfInstalledFiles":5574276951
     },
-    "version": "1.0.1"
+    "version": "1.0.2"
   }
 ]
